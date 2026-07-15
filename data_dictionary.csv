@@ -1,0 +1,8 @@
+Column,Datatype,Missing,Unique
+Area,object,0,101
+Item,object,0,10
+Year,int64,0,23
+Crop_Yield,int64,0,11514
+Rainfall,float64,0,100
+Pesticides,float64,0,1673
+Temperature,float64,0,1831
